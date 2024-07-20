@@ -24,6 +24,8 @@
 #include "SpellScriptLoader.h"
 #include "naxxramas.h"
 
+using namespace FourHorsemen;
+
 void AddSC_boss_four_horsemen()
 {
     new boss_four_horsemen();
