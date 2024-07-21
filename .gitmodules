@@ -19,3 +19,6 @@
 [submodule "modules/mod-aoe-loot"]
 	path = modules/mod-aoe-loot
 	url = https://github.com/Laodaiy/mod-aoe-loot.git
+[submodule "modules/mod-reagent-bank"]
+	path = modules/mod-reagent-bank
+	url = https://github.com/Laodaiy/mod-reagent-bank.git
