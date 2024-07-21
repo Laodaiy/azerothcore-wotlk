@@ -22,3 +22,12 @@
 [submodule "modules/mod-reagent-bank"]
 	path = modules/mod-reagent-bank
 	url = https://github.com/Laodaiy/mod-reagent-bank.git
+[submodule "modules/mod-cfbg"]
+	path = modules/mod-cfbg
+	url = https://github.com/Laodaiy/mod-cfbg.git
+[submodule "modules/mod-weapon-visual"]
+	path = modules/mod-weapon-visual
+	url = https://github.com/Laodaiy/mod-weapon-visual.git
+[submodule "modules/mod-bg-reward"]
+	path = modules/mod-bg-reward
+	url = https://github.com/Laodaiy/mod-bg-reward.git
