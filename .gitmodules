@@ -31,3 +31,7 @@
 [submodule "modules/mod-bg-reward"]
 	path = modules/mod-bg-reward
 	url = https://github.com/Laodaiy/mod-bg-reward.git
+[submodule "modules/mod-solocraft"]
+	path = modules/mod-solocraft
+	url = https://github.com/Laodaiy/mod-solocraft.git
+	branch = npcbots_3.3.5
