@@ -13,3 +13,9 @@
 [submodule "modules/mod-ah-bot"]
 	path = modules/mod-ah-bot
 	url = https://github.com/azerothcore/mod-ah-bot.git
+[submodule "modules/mod-challenge-modes"]
+	path = modules/mod-challenge-modes
+	url = https://github.com/Laodaiy/mod-challenge-modes.git
+[submodule "modules/mod-aoe-loot"]
+	path = modules/mod-aoe-loot
+	url = https://github.com/Laodaiy/mod-aoe-loot.git
