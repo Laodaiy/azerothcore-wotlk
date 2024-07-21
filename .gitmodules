@@ -1,0 +1,15 @@
+[submodule "modules/mod-playerbots"]
+	path = modules/mod-playerbots
+	url = https://github.com/Laodaiy/mod-playerbots.git
+[submodule "modules/mod-autobalance"]
+	path = modules/mod-autobalance
+	url = https://github.com/Laodaiy/mod-autobalance.git
+[submodule "modules/mod-transmog"]
+	path = modules/mod-transmog
+	url = https://github.com/azerothcore/mod-transmog.git
+[submodule "modules/mod-eluna"]
+	path = modules/mod-eluna
+	url = https://github.com/azerothcore/mod-eluna.git
+[submodule "modules/mod-ah-bot"]
+	path = modules/mod-ah-bot
+	url = https://github.com/azerothcore/mod-ah-bot.git
