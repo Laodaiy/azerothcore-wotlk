@@ -35,3 +35,18 @@
 	path = modules/mod-solocraft
 	url = https://github.com/Laodaiy/mod-solocraft.git
 	branch = npcbots_3.3.5
+[submodule "modules/mod-statbooster"]
+	path = modules/mod-statbooster
+	url = https://github.com/Laodaiy/mod-statbooster.git
+[submodule "modules/mod-better-item-reloading"]
+	path = modules/mod-better-item-reloading
+	url = https://github.com/azerothcore/mod-better-item-reloading.git
+[submodule "modules/mod-1v1-arena"]
+	path = modules/mod-1v1-arena
+	url = https://github.com/Laodaiy/mod-1v1-arena.git
+[submodule "modules/mod-solo-lfg"]
+	path = modules/mod-solo-lfg
+	url = https://github.com/Laodaiy/mod-solo-lfg.git
+[submodule "modules/mod-dungeonrespawn"]
+	path = modules/mod-dungeonrespawn
+	url = https://github.com/Laodaiy/mod-dungeonrespawn.git
