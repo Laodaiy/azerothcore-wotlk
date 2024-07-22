@@ -50,3 +50,6 @@
 [submodule "modules/mod-dungeonrespawn"]
 	path = modules/mod-dungeonrespawn
 	url = https://github.com/Laodaiy/mod-dungeonrespawn.git
+[submodule "modules/mod-zone-difficulty"]
+	path = modules/mod-zone-difficulty
+	url = https://github.com/Laodaiy/mod-zone-difficulty.git
