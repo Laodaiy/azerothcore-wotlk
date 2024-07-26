@@ -6,7 +6,7 @@
 	url = https://github.com/Laodaiy/mod-autobalance.git
 [submodule "modules/mod-transmog"]
 	path = modules/mod-transmog
-	url = https://github.com/azerothcore/mod-transmog.git
+	url = https://github.com/Laodaiy/mod-transmog.git
 [submodule "modules/mod-eluna"]
 	path = modules/mod-eluna
 	url = https://github.com/azerothcore/mod-eluna.git
@@ -53,3 +53,6 @@
 [submodule "modules/mod-zone-difficulty"]
 	path = modules/mod-zone-difficulty
 	url = https://github.com/Laodaiy/mod-zone-difficulty.git
+[submodule "modules/mod-individual-progression"]
+	path = modules/mod-individual-progression
+	url = https://github.com/Laodaiy/mod-individual-progression.git
