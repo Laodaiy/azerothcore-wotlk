@@ -40,7 +40,7 @@
 	url = https://github.com/Laodaiy/mod-statbooster.git
 [submodule "modules/mod-better-item-reloading"]
 	path = modules/mod-better-item-reloading
-	url = https://github.com/azerothcore/mod-better-item-reloading.git
+	url = https://github.com/Laodaiy/mod-better-item-reloading.git
 [submodule "modules/mod-1v1-arena"]
 	path = modules/mod-1v1-arena
 	url = https://github.com/Laodaiy/mod-1v1-arena.git
