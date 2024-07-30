@@ -8,6 +8,7 @@
 #include "ScriptMgr.h"
 #include "SpellAuras.h"
 #include "TemporarySummon.h"
+#include <SpellMgr.h>
 /*
 Blademaster NpcBot (by Trickerer onlysuffering@gmail.com)
 DISABLED: movement mechanics incompatibility
