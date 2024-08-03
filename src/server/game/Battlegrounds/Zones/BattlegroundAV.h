@@ -1832,10 +1832,6 @@ public:
 
     TeamId GetPrematureWinner() override;
 
-    [[nodiscard]] BG_AV_NodeInfo const& GetAVNodeInfo(uint32 node) const { return m_Nodes[node]; }
-    [[nodiscard]] bool IsCaptainAlive(uint8 index) const { return m_CaptainAlive[index]; }
-    [[nodiscard]] TeamId GetMineOwner(uint8 index) const { return m_Mine_Owner[index]; }
-
 private:
     void PostUpdateImpl(uint32 diff) override;
 
@@ -1856,7 +1852,7 @@ private:
     //npcbot
     /*
     //end npcbot
-    uint32 GetObjectThroughNode(BG_AV_Nodes node);
+    uint32 GetObjectThroughNode(BG_AV_Nodes node);    
     //npcbot
     */
     uint32 GetObjectThroughNode(BG_AV_Nodes node, bool log = true) const;
