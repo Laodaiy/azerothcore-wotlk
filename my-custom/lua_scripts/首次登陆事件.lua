@@ -24,8 +24,9 @@ end
 
 -- 赠送礼物
 local function GiveGifts(event, player)   -- 玩家首次登录
-        player:AddItem(23162, 11)                -- 弗洛尔的无尽抗性宝箱 * 个数。你可以根据物品id自行设置
-        player:ModifyMoney(1000000)              -- 赠送100金币
+        -- player:AddItem(23162, 11)             -- 弗洛尔的无尽抗性宝箱 * 个数。你可以根据物品id自行设置
+        player:AddItem(1725, 11)                 -- 1725(12格), 3914(14格)
+        player:ModifyMoney(10000)                -- 1个金币
                                                  -- 公告等等放在后面,否则可能失效,具体原因不知道
         -- SendWorldMessage("|cffff00ff[温馨提醒]|r".."["..player:GetName().."]|cFF0099FF欢迎来到335天蓝单机魔兽(Amberina整合版)！|r")
 end
